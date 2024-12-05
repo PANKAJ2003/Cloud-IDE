@@ -1,0 +1,4 @@
+
+const createFolder = (loation,type)=>{
+
+}
